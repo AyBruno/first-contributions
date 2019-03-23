@@ -12715,6 +12715,7 @@ Taylor Burrington
 - [Ramsay Sewell](https://github.com/ramsaysewell)
 - [Philip Cosentino](https://github.com/pcbootsy)
 - [jo](https://github.com/folde01)
+- [Adrian Bruno] (https://github.com/AyBruno)
 - [Edwina Muir](https://github.com/edgmuir)
 - [jhavn](https://github.com/jhavn)
 - [yasnogor](https://github.com/yasnogor)
@@ -13030,4 +13031,4 @@ Afolayan Tunde
 [Jesrapo](https://github.com/jesrapo)
 [Dmitriy Makarov](https://github.com/dmxich)
 [Moayad  Badawi] (https://github.com/moayad-badawi)
-[Adrian Bruno] (https://github.com/AyBruno)
+
