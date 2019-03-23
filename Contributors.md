@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
@@ -13030,3 +13030,4 @@ Afolayan Tunde
 [Jesrapo](https://github.com/jesrapo)
 [Dmitriy Makarov](https://github.com/dmxich)
 [Moayad  Badawi] (https://github.com/moayad-badawi)
+[Adrian Bruno] (https://github.com/AyBruno)
